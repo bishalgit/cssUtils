@@ -3,5 +3,5 @@
 }
 
 #dustLowChart {
-    display: none;
+    display: none !IMPORTANT;
 }
